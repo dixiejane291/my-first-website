@@ -7,7 +7,7 @@ This is a simple responsive website built for my web development assignment.
 - AI suggestions (from ChatGPT) to plan the layout
 
 ## Live Site
-You can view the live website here: [INSERT LIVE LINK HERE] (we'll add this next!)
+You can view the live website here:  (https://dixiejane291.github.io/my-first-website/) (we'll add this next!)
 
 ## Features
 - Mobile-friendly design
